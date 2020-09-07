@@ -1,6 +1,6 @@
 a = int(input("Digite um número: "))
 b = int(input("Digite um número: "))
 
-soma = a + b
+divi = a / b
 
-print(soma)
+print(div)
